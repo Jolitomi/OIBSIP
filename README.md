@@ -8,9 +8,17 @@ This repository contains all the tasks completed as part of the Oasis Infobyte i
 1. **Retail Sales EDA**:
    - Folder: `Retail_Sales_EDA`
    - Description: Exploratory Data Analysis of retail sales data to identify patterns, trends, and actionable insights.
+     
+2.  **Customer Segmentation**:
+   - Folder: `Retail_Sales_EDA`
+   - Description: This project dives into the behavior and purchasing patterns of iFood customers.
+     
+3.  **House Price Prediction**
+   - Folder: `Retail_Sales_EDA`
+   - Description: This project is aims to build a predictive model using linear regression to estimate house prices based on a dataset of various housing features.
+    
 
-2. Additional tasks will be added here as they are completed.
-
+   
 ---
 
 ## How to Use
